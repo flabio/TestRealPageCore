@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj": {}
+    "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj": {
+    "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
+        "projectUniqueName": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
         "projectName": "TestRealPageCore.Serve",
-        "projectPath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
+        "projectPath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
         "packagesPath": "C:\\Users\\flabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\obj\\",
+        "outputPath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

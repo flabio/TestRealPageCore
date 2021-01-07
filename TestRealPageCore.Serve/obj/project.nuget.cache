@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFe+yQTPaT9D9Sjx1FWvhEWi9GSF2M1Bi435r68sKG+z+4I0CJ1QP6rboPZ0056gn6HFOkiNu7Qf7zFhVkxlCQ==",
+  "dgSpecHash": "C3JAly2JNwcDo39k0d0FU+2XXdmFrN1JXxd8t6jkm7zrd+YMtwwWLtBrUZK78ArGDDubEpkASDG+lcPMjbnK3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
+  "projectFilePath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.Serve\\TestRealPageCore.Serve.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flabi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\flabi\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
