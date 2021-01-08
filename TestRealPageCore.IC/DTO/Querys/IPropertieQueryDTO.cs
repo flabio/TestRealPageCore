@@ -1,7 +1,7 @@
 ﻿namespace TestRealPageCore.IC.DTO.Querys
 {
 	using System;
-	interface IPropertieQueryDTO
+	public interface IPropertieQueryDTO
 	{
 		int IdPropertie { get; set; }
 		string Name { get; set; }

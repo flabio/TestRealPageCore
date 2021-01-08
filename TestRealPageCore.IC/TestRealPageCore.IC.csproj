@@ -6,9 +6,7 @@
 
   <ItemGroup>
     <Folder Include="DTO\Common\" />
-    <Folder Include="Action\" />
     <Folder Include="Enuneration\" />
-    <Folder Include="Extentions\Entitys\" />
   </ItemGroup>
 
 </Project>
