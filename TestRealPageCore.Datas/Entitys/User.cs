@@ -1,6 +1,7 @@
 ﻿namespace TestRealPageCore.Datas.Models
 {
-	public partial class User
+	using TestRealPageCore.IC.DTO.Entitys;
+	public partial class User : IUserDTO
 	{
 	}
 }

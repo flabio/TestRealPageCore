@@ -2138,6 +2138,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "TestRealPageCore.IC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TestRealPageCore.IC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestRealPageCore.IC.dll": {}
+        }
       }
     }
   },
@@ -7349,6 +7359,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "TestRealPageCore.IC/1.0.0": {
+      "type": "project",
+      "path": "../TestRealPageCore.IC/TestRealPageCore.IC.csproj",
+      "msbuildProject": "../TestRealPageCore.IC/TestRealPageCore.IC.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7356,7 +7371,8 @@
       "Microsoft.EntityFrameworkCore >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.1"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
+      "TestRealPageCore.IC >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7390,7 +7406,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.IC\\TestRealPageCore.IC.csproj": {
+              "projectPath": "C:\\Users\\flabi\\Documents\\Desarrollo\\TestRealPageCore\\TestRealPageCore.IC\\TestRealPageCore.IC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

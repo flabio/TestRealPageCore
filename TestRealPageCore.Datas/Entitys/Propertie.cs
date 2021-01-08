@@ -1,6 +1,7 @@
 ﻿namespace TestRealPageCore.Datas.Models
 {
-	public partial class Propertie
+	using TestRealPageCore.IC.DTO.Entitys;
+	public partial class Propertie : IPropertieDTO
 	{
 	}
 }
