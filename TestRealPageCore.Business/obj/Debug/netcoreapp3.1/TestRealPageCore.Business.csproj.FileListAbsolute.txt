@@ -7,3 +7,5 @@ C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\o
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csproj.CoreCompileInputs.cache
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.dll
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.Configuracion.Entitys.FieldsRequired.resources
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csproj.GenerateResource.cache

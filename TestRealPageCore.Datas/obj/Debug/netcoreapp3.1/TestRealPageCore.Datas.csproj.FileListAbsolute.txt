@@ -10,3 +10,6 @@ C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\obj\
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\obj\Debug\netcoreapp3.1\TestRealPageCore.Datas.dll
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\obj\Debug\netcoreapp3.1\TestRealPageCore.Datas.pdb
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\obj\Debug\netcoreapp3.1\TestRealPageCore.Datas.genruntimeconfig.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Datas\obj\Debug\netcoreapp3.1\TestRealPageCore.Datas.csproj.CopyComplete

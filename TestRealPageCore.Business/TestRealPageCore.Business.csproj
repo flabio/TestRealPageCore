@@ -5,10 +5,27 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="BL\" />
-    <Folder Include="BO\" />
-    <Folder Include="Configuracion\Entitys\" />
     <Folder Include="Configuracion\MsgAlert\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestRealPageCore.Datas\TestRealPageCore.Datas.csproj" />
+    <ProjectReference Include="..\TestRealPageCore.IC\TestRealPageCore.IC.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Configuracion\Entitys\FieldsRequired.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>FieldsRequired.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Configuracion\Entitys\FieldsRequired.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>FieldsRequired.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>
