@@ -83,7 +83,7 @@ namespace TestRealPageCore.Serve.Controllers
 				return StatusCode(StatusCodes.Status200OK, new ResponseModel()
 				{
 					IsSuccessfull = true,
-					Message = resultado ? rscMessagesCommon.NotSuccessfulDelete : rscMessagesCommon.NotSuccessfulDelete,
+					Message = resultado ? rscMessagesCommon.SuccessfulDelete : rscMessagesCommon.NotSuccessfulDelete,
 					Result = resultado
 				});
 			}

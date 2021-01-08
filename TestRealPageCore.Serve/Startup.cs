@@ -28,6 +28,14 @@ namespace TestRealPageCore.Serve
 		{
 
 			services.AddControllers();
+			services.AddCors(
+					  options => options.AddPolicy("AllowClientOrigin", builder => {
+						  builder.AllowAnyOrigin()
+					 .AllowAnyMethod()
+					.AllowAnyHeader();
+					  }
+
+		  ));
 			services.AddSwaggerGen(c =>
 			{
 				c.SwaggerDoc("v1", new OpenApiInfo { Title = "TestRealPageCore.Serve", Version = "v1" });
@@ -47,9 +55,9 @@ namespace TestRealPageCore.Serve
 			app.UseHttpsRedirection();
 
 			app.UseRouting();
-
+			app.UseCors("AllowClientOrigin");
 			app.UseAuthorization();
-
+			
 			app.UseEndpoints(endpoints =>
 			{
 				endpoints.MapControllers();
