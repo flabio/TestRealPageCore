@@ -8,7 +8,7 @@
 	{
 		bool AddPropertie(IPropertieDTO propertie);
 		bool EditPropertie(IPropertieDTO propertie);
-		bool DetelePropertie(int id);
+		bool DeletePropertie(int id);
 		List<IPropertieQueryDTO> ListPropertie();
 	}
 }

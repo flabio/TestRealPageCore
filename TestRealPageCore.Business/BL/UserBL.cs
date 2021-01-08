@@ -52,7 +52,7 @@
 			List<IUserQueryDTO> result = this._userDAL.Value.ListUser();
 			if (result.Where(x => x.Email == user.Email).Any())
 			{
-				throw new Exception(string.Format("The Email is exist."));
+				throw new Exception(string.Format(FieldsRequired.AlreadyExist,"Email"));
 			}
 		}
 		private void UserValidateFields(IUserDTO user, ActionOp action)

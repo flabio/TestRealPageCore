@@ -61,11 +61,29 @@ namespace TestRealPageCore.Business.Configuracion.Entitys {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a The {0} is required.
+        ///   Busca una cadena traducida similar a The {0} already exist..
+        /// </summary>
+        public static string AlreadyExist {
+            get {
+                return ResourceManager.GetString("AlreadyExist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a The field {0} is required.
         /// </summary>
         public static string FieldRe {
             get {
                 return ResourceManager.GetString("FieldRe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a There are fields that are required.
+        /// </summary>
+        public static string FieldsAreRequired {
+            get {
+                return ResourceManager.GetString("FieldsAreRequired", resourceCulture);
             }
         }
     }

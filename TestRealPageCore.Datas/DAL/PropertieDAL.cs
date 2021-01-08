@@ -39,7 +39,7 @@
 			return result;
 		}
 
-		public bool DetelePropertie(int id)
+		public bool DeletePropertie(int id)
 		{
 			bool result = false;
 			using (RealPageDBContext context = new RealPageDBContext())
