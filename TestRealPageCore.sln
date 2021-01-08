@@ -3,7 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealPageCore.Serve", "TestRealPageCore.Serve\TestRealPageCore.Serve.csproj", "{13E82CAD-21F1-4852-8013-341C81E8AEF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRealPageCore.Serve", "TestRealPageCore.Serve\TestRealPageCore.Serve.csproj", "{13E82CAD-21F1-4852-8013-341C81E8AEF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Serveces", "1.Serveces", "{8393C443-761D-435B-A901-AB0F5500AFB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Business", "2.Business", "{0C207F1B-75FE-4068-8199-5D5441B4A3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealPageCore.Business", "TestRealPageCore.Business\TestRealPageCore.Business.csproj", "{98C83F15-65D9-422C-9878-64CF16995575}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Datas", "3.Datas", "{D0E03750-1FAF-44AC-9D1E-9AC310EBA038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealPageCore.Datas", "TestRealPageCore.Datas\TestRealPageCore.Datas.csproj", "{25B1B697-0805-4277-A509-553144005E64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.InterfacesCommon", "4.InterfacesCommon", "{A6883565-6194-4921-A1FC-DDB08E400136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRealPageCore.IC", "TestRealPageCore.IC\TestRealPageCore.IC.csproj", "{33BC77C4-0DEB-456A-A545-D0B4B48B4128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +29,27 @@ Global
 		{13E82CAD-21F1-4852-8013-341C81E8AEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E82CAD-21F1-4852-8013-341C81E8AEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13E82CAD-21F1-4852-8013-341C81E8AEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C83F15-65D9-422C-9878-64CF16995575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C83F15-65D9-422C-9878-64CF16995575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C83F15-65D9-422C-9878-64CF16995575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C83F15-65D9-422C-9878-64CF16995575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B1B697-0805-4277-A509-553144005E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1B697-0805-4277-A509-553144005E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1B697-0805-4277-A509-553144005E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1B697-0805-4277-A509-553144005E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BC77C4-0DEB-456A-A545-D0B4B48B4128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BC77C4-0DEB-456A-A545-D0B4B48B4128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BC77C4-0DEB-456A-A545-D0B4B48B4128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BC77C4-0DEB-456A-A545-D0B4B48B4128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13E82CAD-21F1-4852-8013-341C81E8AEF8} = {8393C443-761D-435B-A901-AB0F5500AFB6}
+		{98C83F15-65D9-422C-9878-64CF16995575} = {0C207F1B-75FE-4068-8199-5D5441B4A3A8}
+		{25B1B697-0805-4277-A509-553144005E64} = {D0E03750-1FAF-44AC-9D1E-9AC310EBA038}
+		{33BC77C4-0DEB-456A-A545-D0B4B48B4128} = {A6883565-6194-4921-A1FC-DDB08E400136}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2B4E03E-3687-4BED-AD12-327A50D0D814}

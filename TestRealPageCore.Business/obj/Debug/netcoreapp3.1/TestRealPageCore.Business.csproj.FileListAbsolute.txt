@@ -1,0 +1,9 @@
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.Business.deps.json
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.Business.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.Business.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csprojAssemblyReference.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.AssemblyInfoInputs.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.AssemblyInfo.cs
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csproj.CoreCompileInputs.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.pdb

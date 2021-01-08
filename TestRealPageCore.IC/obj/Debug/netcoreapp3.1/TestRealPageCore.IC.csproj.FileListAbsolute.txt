@@ -1,0 +1,9 @@
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.deps.json
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.csprojAssemblyReference.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.AssemblyInfoInputs.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.AssemblyInfo.cs
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.csproj.CoreCompileInputs.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.IC\obj\Debug\netcoreapp3.1\TestRealPageCore.IC.pdb
