@@ -65,7 +65,7 @@
 				case ActionOp.Edit:
 					if (user.IdUser == 0)
 					{
-						throw new Exception(string.Format("The field Id required"));
+						throw new Exception(string.Format(FieldsRequired.FieldRe,"Id"));
 					}
 					this.FieldsValidate(user);
 					break;
@@ -75,25 +75,25 @@
 		{
 			if (user == null)
 			{
-				throw new Exception(string.Format("There are fields that are required"));
+				throw new Exception(string.Format(FieldsRequired.FieldsAreRequired));
 			}
-			if (user.FirstName == null)
+			if (string.IsNullOrEmpty(user.FirstName))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "FirstName"));
 			}
-			if (user.LastName == null)
+			if (string.IsNullOrEmpty(user.LastName))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "LastName"));
 			}
-			if (user.Adress == null)
+			if (string.IsNullOrEmpty(user.Adress))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "Adress"));
 			}
-			if (user.Phone == null)
+			if (string.IsNullOrEmpty(user.Phone))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "Phone"));
 			}
-			if (user.Email == null)
+			if (string.IsNullOrEmpty(user.Email))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "Email"));
 			}

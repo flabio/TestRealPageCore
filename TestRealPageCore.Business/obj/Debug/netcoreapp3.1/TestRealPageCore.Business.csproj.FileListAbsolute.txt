@@ -9,3 +9,9 @@ C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\o
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.pdb
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.Configuracion.Entitys.FieldsRequired.resources
 C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csproj.GenerateResource.cache
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.Datas.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.dll
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.Datas.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\bin\Debug\netcoreapp3.1\TestRealPageCore.IC.pdb
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.Configuracion.MsgAlert.rscMessagesCommon.resources
+C:\Users\flabi\Documents\Desarrollo\TestRealPageCore\TestRealPageCore.Business\obj\Debug\netcoreapp3.1\TestRealPageCore.Business.csproj.CopyComplete

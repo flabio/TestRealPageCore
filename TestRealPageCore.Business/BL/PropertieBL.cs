@@ -72,19 +72,16 @@
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldsAreRequired));
 			}
-			if (propertie.Name == null)
+			if (string.IsNullOrEmpty(propertie.Name))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "Name"));
 			}
-			if (propertie.Location == null)
+			if (string.IsNullOrEmpty(propertie.Location))
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "Location"));
 			}
-			if (propertie.Price == null)
-			{
-				throw new Exception(string.Format(FieldsRequired.FieldRe, "Price"));
-			}
-			if (propertie.IdUser == null)
+			
+			if (propertie.IdUser==0)
 			{
 				throw new Exception(string.Format(FieldsRequired.FieldRe, "owner"));
 			}
